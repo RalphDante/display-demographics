@@ -1,0 +1,21 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Demographics Program by Ralph T. Comandante\n");
+        Console.WriteLine ("Student ID    : 24870719");
+        Console.WriteLine ("Full Name     : Ralph T. Comandante");
+        Console.WriteLine ("Nick Name     : Raprap");
+        Console.WriteLine ("Gender        : Man");
+        Console.WriteLine ("Year Level    : 1");
+        Console.WriteLine ("Home Location : Lower South Hills, Tisa, Cebu City");
+        Console.WriteLine ("Course        : BSCS");
+        Console.WriteLine ("Mobile No.    : 09620417428");
+        Console.WriteLine ("Personal Email: ralph.comandante1@gmail.com");
+    }
+}
